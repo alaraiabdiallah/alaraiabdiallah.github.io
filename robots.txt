@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alaraiabdiallah.github.io/personal-website/sitemap.xml
