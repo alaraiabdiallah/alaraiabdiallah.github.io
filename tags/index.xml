@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ala Rai</title>
-    <link>https://alaraiabdiallah.github.io/personal-website/tags/</link>
+    <link>https://alaraiabdiallah.github.io/tags/</link>
     <description>Recent content in Tags on Ala Rai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://alaraiabdiallah.github.io/personal-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alaraiabdiallah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journey</title>
-      <link>https://alaraiabdiallah.github.io/personal-website/tags/journey/</link>
+      <link>https://alaraiabdiallah.github.io/tags/journey/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://alaraiabdiallah.github.io/personal-website/tags/journey/</guid>
+      <guid>https://alaraiabdiallah.github.io/tags/journey/</guid>
       <description></description>
     </item>
     <item>
       <title>Programmer</title>
-      <link>https://alaraiabdiallah.github.io/personal-website/tags/programmer/</link>
+      <link>https://alaraiabdiallah.github.io/tags/programmer/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://alaraiabdiallah.github.io/personal-website/tags/programmer/</guid>
+      <guid>https://alaraiabdiallah.github.io/tags/programmer/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Engineer</title>
-      <link>https://alaraiabdiallah.github.io/personal-website/tags/software-engineer/</link>
+      <link>https://alaraiabdiallah.github.io/tags/software-engineer/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://alaraiabdiallah.github.io/personal-website/tags/software-engineer/</guid>
+      <guid>https://alaraiabdiallah.github.io/tags/software-engineer/</guid>
       <description></description>
     </item>
   </channel>
