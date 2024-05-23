@@ -1,0 +1,27 @@
+# .gitignore
+
+# Ignore Hugo's generated files
+/public/
+/resources/_gen/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore files related to your text editor or IDE
+.idea/
+*.swp
+*.swo
+*.swn
+.vscode/
+
+# Ignore files related to operating system
+*.bak
+*.log
+*.tmp
+*.lock
+
+# Ignore Hugo's temporary files
+hugo.exe
+hugo.darwin
+hugo.linux
