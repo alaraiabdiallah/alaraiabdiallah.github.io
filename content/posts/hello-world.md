@@ -10,8 +10,8 @@ ShowToc: true
 TocOpen: true
 ---
 
-Beep beep... Hello my name Ala Rai a Full Stack Developer. It's been 11 years since my first time to learn code until now I become Full Stack Developer but I haven't website, kinda weird right?😅. For shy person like me to write something in my mind very it's very very challenging. Maybe you notice this intro kinda awkward and the grammars are bad, because I really bad in grammars. This website will be my training field for writing.
+Hello, my name is Ala Rai, and I'm a full-stack developer! It's been 11 years since I first learned to code, and now I'm a full-stack developer. I didn't have a website at first, which was a bit unusual, but it was a great learning experience. For someone like me, who is naturally shy, it was a challenge to write about what I'm passionate about. I'm aware that my intro might seem a bit awkward and that my grammar could use some improvement, but I'm working on it! This website is going to be my training ground for writing!
 
-I will write about software engineering based on my experience, maybe my opinion about some tech trends, it's about something in my though I will try to put in this website 😊.
+I'll be sharing my insights on software engineering based on my experience, as well as my thoughts on some tech trends. Anything that's on my mind, I'll be putting in this website!
 
-Soooo this write only short introductory. Thank you ✌️
+So, this is just a short introductory post. Thank you so much for reading! 😊
